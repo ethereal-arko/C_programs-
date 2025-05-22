@@ -1,4 +1,4 @@
-/*This program checks a number even or odd */
+/*This program checks a year leap year or not */
 
 #include<stdio.h>
 int main()
